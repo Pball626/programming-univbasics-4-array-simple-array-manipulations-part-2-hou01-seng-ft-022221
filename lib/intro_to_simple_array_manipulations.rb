@@ -4,7 +4,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, element)
-  array.insert(element)[4]
+  array.insert(4, )[4]
 end
 
 #def retrieve_element_from_index(array, index_number)
