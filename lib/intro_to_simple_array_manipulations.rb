@@ -7,6 +7,6 @@ def using_insert(array, element)
   array.insert(4, element)
 end
 
-#def retrieve_element_from_index(array, index_number)
-  #retrieve_element_from_index = ["blue", "red", "am"]
-  #retrieve_element_from_index[2]
+def using_uniq(array)
+  array.uniq
+end
